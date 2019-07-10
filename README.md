@@ -1,5 +1,5 @@
 # Factory24 IPFS Course Tests
-This repo constains all the lesson tests and tasks for the <a href="factory24.org">Factory24 IPFS course available for free on the learning platform.
+This repo constains all the lesson tests and tasks for the Factory24 IPFS course available for free on the learning platform.
   
 Tests are listed in chronological order for easier access. 
 
